@@ -12,7 +12,7 @@ You can find the code which we built during this first session at
 
 This session roughly followed the sequence in this document, which has more explanation:
 
-[20200915 Python from the Beginning Session 2.pdf](20200915%20Python%20from%20the%20Beginning%20Session%202.pdf)
+[Sep 2020: Python from the Beginning Session 2.pdf]([20200915%20Python%20from%20the%20Beginning%20Session%202.pdf](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/20200915%20Python%20from%20the%20Beginning%20Session%202.pdf))
 
 ---
 
