@@ -14,11 +14,13 @@ This session roughly followed the sequence in this document, which has more expl
 
 [Sep 2020: Python from the Beginning Session 2.pdf](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/20200915%20Python%20from%20the%20Beginning%20Session%202.pdf)
 
+If you go to this link you can click on the Download button in the top right to download a copy to your own computer.
+
 ---
 
 ## 28 January 2023
 
 Here is a link to a project for learning about the turtle graphics window:
 
-
+[https://trinket.io/python/edf3efe7aa](https://trinket.io/python/edf3efe7aa)
 
