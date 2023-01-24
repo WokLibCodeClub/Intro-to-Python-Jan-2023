@@ -27,7 +27,14 @@ If you go to this link you can click on the Download button in the top right to 
 - We can’t use reserved keywords as a variable name
 - We should avoid using names of Python functions, eg print, input, str
 
+To find the list of reserved keywords go to the trinket Python console [trinket.io/console](https://trinket.io/console)
 
+and type
+
+```python
+>>> import keyword
+>>> keyword.kwlist
+```
 
 Here is a link to a project for learning about the turtle graphics window:
 
