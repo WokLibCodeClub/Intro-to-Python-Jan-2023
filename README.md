@@ -29,7 +29,7 @@ If you go to this link you can click on the Download button in the top right to 
 
 To find the list of reserved keywords go to the trinket Python console [trinket.io/console](https://trinket.io/console)
 
-and type
+and type (you don't have to type the >>>):
 
 ```python
 >>> import keyword
