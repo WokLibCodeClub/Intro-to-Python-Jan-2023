@@ -44,6 +44,8 @@ and type (you don't have to type the >>>):
 
 [https://trinket.io/python/ad24f53fea](https://trinket.io/python/ad24f53fea)
 
+The code is the same as we wrote during the session but we've added a few Python *comments* (lines that begin with a ```#```) to show how useful comments can be!
+
 ---
 
 ## 4 February 2023
