@@ -25,7 +25,7 @@ If you go to the link above you can click on the Download button in the top righ
 - A variable name must start with a letter or the underscore character - never a number
 - Variable names are case-sensitive (age, Age and AGE are three different variables)
 - We can’t use reserved keywords as a variable name
-- We should avoid using names of Python functions, eg print, input, str
+- We should avoid using names of Python functions, eg int, input, str
 
 To find the list of reserved keywords go to the trinket Python console [trinket.io/console](https://trinket.io/console)
 
