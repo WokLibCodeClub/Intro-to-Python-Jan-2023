@@ -46,6 +46,18 @@ and type (you don't have to type the >>>):
 
 The code is the same as we wrote during the session but we've added a few Python *comments* (lines that begin with a ```#```) to show how useful comments can be! In trinket the comments always appear in green text.
 
+Here is a website where you can find the list of all the colours you can use in your Python code:
+
+[www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
+
+You can set a turtle to have any of these colours by putting the colour name in quotes inside the brackets after the word color. Example:
+
+```Python
+t.color('PeachPuff')
+```
+
+if my turtle is in a variable called ```t```.
+
 ---
 
 ## 4 February 2023
