@@ -46,7 +46,7 @@ and type (you don't have to type the >>>):
 
 The code is the same as we wrote during the session but we've added a few Python *comments* (lines that begin with a ```#```) to show how useful comments can be! In trinket the comments always appear in green text.
 
-Here is a website where you can find the list of all the colours you can use in your Python code:
+#### Here is a website where you can find the list of all the colours you can use in your Python code:
 
 [www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
 
