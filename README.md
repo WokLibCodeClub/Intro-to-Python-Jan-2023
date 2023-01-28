@@ -40,7 +40,7 @@ and type (you don't have to type the >>>):
 
 [https://trinket.io/python/edf3efe7aa](https://trinket.io/python/edf3efe7aa)
 
-#### You can find the code which we built during this second session at
+#### You can find the code which we built during the session on 28 January 2023 at
 
 [https://trinket.io/python/ad24f53fea](https://trinket.io/python/ad24f53fea)
 
