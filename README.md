@@ -21,7 +21,7 @@ If you go to the link above you can click on the Download button in the top righ
 ## 28 January 2023
 
 ### Rules for naming your Python variables:
-- A variable name can only contain alpha-numeric characters and underscores (A-Z, a-z, 0-9, and _ )
+- A variable name can only contain alpha-numeric characters and underscores (A-Z, a-z, 0-9, and _ ). No SPACES allowed.
 - A variable name must start with a letter or the underscore character - never a number
 - Variable names are case-sensitive (age, Age and AGE are three different variables)
 - We can’t use reserved keywords as a variable name
