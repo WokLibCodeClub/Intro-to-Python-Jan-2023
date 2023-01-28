@@ -56,7 +56,7 @@ You can set a turtle to have any of these colours by putting the colour name in 
 t.color('PeachPuff')
 ```
 
-if your turtle is in a variable called ```t```.
+if your turtle is in a variable called ```t```. Python recognises the colour with or without the capital letters, so in this example you could type peachpuff instead of PeachPuff and it would still work.
 
 ---
 
