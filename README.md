@@ -14,7 +14,7 @@ This session roughly followed the sequence in this document, which has more expl
 
 [Sep 2020: Python from the Beginning Session 2.pdf](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/20200915%20Python%20from%20the%20Beginning%20Session%202.pdf)
 
-If you go to this link you can click on the Download button in the top right to download a copy to your own computer.
+If you go to the link above you can click on the Download button in the top right to download a copy to your own computer.
 
 ---
 
@@ -43,4 +43,8 @@ and type (you don't have to type the >>>):
 #### You can find the code which we built during this second session at
 
 [https://trinket.io/python/ad24f53fea](https://trinket.io/python/ad24f53fea)
+
+---
+
+## 4 February 2023
 
