@@ -56,7 +56,7 @@ You can set a turtle to have any of these colours by putting the colour name in 
 t.color('PeachPuff')
 ```
 
-if my turtle is in a variable called ```t```.
+if your turtle is in a variable called ```t```.
 
 ---
 
