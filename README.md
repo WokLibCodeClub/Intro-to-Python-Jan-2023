@@ -64,6 +64,6 @@ Later on, you will find out how you can create your own colours.
 
 ## 4 February 2023
 
-#### Link to starter project for *"Catch the ball" game:
+#### Link to starter project for *"Catch the ball"* game:
 
-[trinket.io/python/0e429f731b](https://trinket.io/python/0e429f731b)
+[https://trinket.io/python/0e429f731b](https://trinket.io/python/0e429f731b)
