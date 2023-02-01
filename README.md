@@ -67,3 +67,8 @@ Later on, you will find out how you can create your own colours.
 #### Link to starter project for *"Catch the ball"* game:
 
 [https://trinket.io/python/0e429f731b](https://trinket.io/python/0e429f731b)
+
+#### Link to click example:
+
+[https://trinket.io/python/7981c58fe5](https://trinket.io/python/7981c58fe5)
+
