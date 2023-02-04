@@ -64,6 +64,10 @@ Later on, you will find out how you can create your own colours.
 
 ## 4 February 2023
 
+#### Link to shape drawing **turtles** project with extra turtle properties added, as after the session on 4 February 2023. I've added a few more comments to explain what each line of code does:
+
+[https://trinket.io/python/9bc368b985](https://trinket.io/python/9bc368b985)
+
 #### Link to starter project for *"Catch the ball"* game:
 
 [https://trinket.io/python/0e429f731b](https://trinket.io/python/0e429f731b)
@@ -76,8 +80,9 @@ Later on, you will find out how you can create your own colours.
 
 ## 25 February 2023
 
+Looking ahead to the next session we will develop the *catch the ball* game and add code for clicking the pokeball turtle.
+
 #### Link to click example:
 
 [https://trinket.io/python/7981c58fe5](https://trinket.io/python/7981c58fe5)
 
-#### Link to starter project for *"Catch the ball"* game:
