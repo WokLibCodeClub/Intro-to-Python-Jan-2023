@@ -64,7 +64,7 @@ Later on, you will find out how you can create your own colours.
 
 ## 4 February 2023
 
-#### Link to shape drawing **turtles** project with extra turtle properties added, as after the session on 4 February 2023:
+#### Link to shape-drawing **turtles** project with extra turtle properties added, as after the session on 4 February 2023:
 
 I've added a few more comments to explain what each line of code does.
 
