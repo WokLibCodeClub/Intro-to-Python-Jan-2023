@@ -82,7 +82,7 @@ I've added a few more comments to explain what each line of code does.
 
 ## 25 February 2023
 
-Looking ahead to the next session we will develop the _*Catch the ball*_ game and add code for clicking the pokeball turtle.
+Looking ahead to the next session we will develop the ***Catch the ball*** game and add code for clicking the pokeball turtle.
 
 #### Link to click example:
 
