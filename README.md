@@ -82,9 +82,16 @@ I've added a few more comments to explain what each line of code does.
 
 ## 25 February 2023
 
-Looking ahead to the next session we will develop the ***"Catch the ball"*** game and add code for clicking the pokeball turtle.
+In this session we finished the ***"Catch the ball"*** game. You can find the code for the final game at
 
-#### Link to click example:
+[https://trinket.io/python/9a6df6ef39](https://trinket.io/python/9a6df6ef39)
+
+In developing this code we learned how to make our own *functions*, and talked about the (complicated) difference between *local* variables and *global* variables. We also wrote code to allow us to *click* on Python turtles and control what happens when we do. You can find the little project which shows how the ```onclick``` turtle function works at
 
 [https://trinket.io/python/7981c58fe5](https://trinket.io/python/7981c58fe5)
 
+---
+
+## 4 March 2023
+
+This is the date of our next session. We're still deciding what to do in this session, but we might cover a few more basic Python ideas, such as more complicated functions which use *parameters* (where we put things inside the brackets in the ```def``` line), and *lists* which are extremely useful.
