@@ -94,7 +94,7 @@ In developing this code we learned how to make our own *functions*, and talked a
 
 ## 4 March 2023
 
-In this session we'll introduce the very important idea of Python *lists*. This will lead on to another type of Python loop: the *for* loop, which we can use as an alternative to the *while* loop. We will also cover the useful Python *range* function.
+In this session we'll introduce the very important idea of Python *lists*. This will lead on to another type of Python loop: the *for* loop, which we can use as an alternative to the *while* loop. We will also cover the useful Python ```range()``` function.
 
 There is a starter trinket project for lists and the link is
 
