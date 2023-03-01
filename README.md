@@ -94,4 +94,8 @@ In developing this code we learned how to make our own *functions*, and talked a
 
 ## 4 March 2023
 
-This is the date of our next session. We're still deciding what to do in this session, but we might cover a few more basic Python ideas, such as more complicated functions which use *parameters* (where we put things inside the brackets in the ```def``` line), and *lists* which are extremely useful.
+In this session we'll introduce the very important idea of Python *lists*. This will lead on to another type of Python loop: the *for* loop, which we can use as an alternative to the *while* loop. We will also cover the useful Python *range* function.
+
+There is a starter trinket project for lists and the link is
+
+[trinket.io/python/33bf438adb](https://trinket.io/python/33bf438adb)
