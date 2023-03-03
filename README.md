@@ -96,6 +96,8 @@ In developing this code we learned how to make our own *functions*, and talked a
 
 Unfortunately this session has had to be cancelled because of unavailability of volunteers.
 
+---
+
 ## 25 March 2023
 
 In this session we'll introduce the very important idea of Python *lists*. This will lead on to another type of Python loop: the *for* loop, which we can use as an alternative to the *while* loop. We will also cover the useful Python ```range()``` function.
