@@ -94,7 +94,7 @@ In developing this code we learned how to make our own *functions*, and talked a
 
 ## 4 March 2023
 
-Unfortunately this session has had to be cancelled because of unavailability of volunteers.
+Unfortunately this session had to be cancelled because of unavailability of volunteers.
 
 ---
 
