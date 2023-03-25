@@ -100,8 +100,46 @@ Unfortunately this session had to be cancelled because of unavailability of volu
 
 ## 25 March 2023
 
-In this session we'll introduce the very important idea of Python *lists*. This will lead on to another type of Python loop: the *for* loop, which we can use as an alternative to the *while* loop. We will also cover the useful Python ```range()``` function.
+In this session we covered the very important idea of Python *lists*. Then we introduced another type of Python loop: the *for* loop, which we can use as an alternative to the *while* loop. We also covered the useful Python ```range()``` function.
 
-There is a starter trinket project for lists and the link is
+We began with this starter trinket project for lists and the link is
 
 [trinket.io/python/33bf438adb](https://trinket.io/python/33bf438adb)
+
+You can see the code as it was at the end of the session at
+
+[trinket.io/python/2e4d5a7866](https://trinket.io/python/2e4d5a7866)
+
+We used the Python console [Your Interactive Python Console (trinket.io)](https://trinket.io/console) to explore the ```range()``` function with one, two or three parameters. (Parameters are the numbers you put inside the brackets.) Here is the text from the console session on 25 March 2023, showing different results from using ```range()```:
+
+```
+Interactive Python Console
+>>> range(7)
+[0, 1, 2, 3, 4, 5, 6]
+>>> range(2,11)
+[2, 3, 4, 5, 6, 7, 8, 9, 10]
+>>> range(1,11)
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+>>> range(1, 11, 3)
+[1, 4, 7, 10]
+>>> [10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+>>> range(10, 0, -1)
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+>>> range(10, -1, -1)
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+>>> 
+```
+
+---
+
+## Next session - date to be confirmed
+
+We have finished the formal teaching of Introduction to Python. From the next session we will suggest you try out some of the Python projects on the Raspberry Pi website. You can have a look at some of the Level 1 Python projects at
+
+[Project path | Intro to Python for kids | Raspberry Pi](https://projects.raspberrypi.org/en/pathways/python-intro)
+
+---
+
+
+
