@@ -133,9 +133,13 @@ Interactive Python Console
 
 ---
 
-## Next session - date to be confirmed
+## Final session - 1 April 2023
 
-We have finished the formal teaching of Introduction to Python. From the next session we will suggest you try out some of the Python projects on the Raspberry Pi website. You can have a look at some of the Level 1 Python projects at
+We finished the formal teaching of Introduction to Python with a short demonstration about how you can move some of your code, for example, variables or functions, from the trinket tab called ```main.py``` into a new tab which you can create by clicking the plus sign to the left of the word Result in the trinket editing page. If you give your new file a name which ends in ```.py``` you can ```import``` the contents of this file and use them in your ```main.py``` code. You can see a trinket project where this has been set up at
+
+[https://trinket.io/python/e10cf365be](https://trinket.io/python/e10cf365be)
+
+We then moved on to the Python projects on the Raspberry Pi website. You can have a look at some of the Level 1 Python projects at
 
 [Project path | Intro to Python for kids | Raspberry Pi](https://projects.raspberrypi.org/en/pathways/python-intro)
 
