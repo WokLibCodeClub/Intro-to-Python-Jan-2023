@@ -4,7 +4,7 @@ We started our post-pandemic Code Club sessions in the new Wokingham library in 
 
 This page includes some links to code and documents used during these beginner sessions.
 
-## 7 January 2033
+## 7 January 2023
 
 You can find the code which we built during this first session at
 
